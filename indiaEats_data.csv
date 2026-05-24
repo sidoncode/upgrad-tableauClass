@@ -1,0 +1,61 @@
+OrderID,OrderDate,Branch,FoodCategory,ItemName,Quantity,UnitPrice,DeliveryTimeMins,CustomerRating,DeliveryType,PaymentMode,CustomerAge,IsWeekend
+ORD-001,2024-01-05,Mumbai,Biryani,Chicken Biryani,2,350,35,4.2,Home Delivery,UPI,28,No
+ORD-002,2024-01-07,Delhi,Pizza,Margherita Pizza,1,280,25,4.5,Dine-in,Card,24,Yes
+ORD-003,2024-01-12,Bangalore,South Indian,Masala Dosa,3,150,20,4.8,Takeaway,Cash,35,No
+ORD-004,2024-01-14,Hyderabad,Chinese,Veg Fried Rice,2,220,30,3.9,Home Delivery,UPI,31,Yes
+ORD-005,2024-01-20,Chennai,Snacks,Samosa Platter,4,120,15,4.3,Dine-in,Cash,22,No
+ORD-006,2024-01-27,Pune,Desserts,Gulab Jamun,3,150,18,4.6,Takeaway,Card,27,Yes
+ORD-007,2024-02-02,Mumbai,Pizza,Pepperoni Pizza,2,380,40,3.8,Home Delivery,UPI,29,No
+ORD-008,2024-02-08,Delhi,Biryani,Mutton Biryani,1,420,45,4.1,Dine-in,Card,38,Yes
+ORD-009,2024-02-14,Bangalore,Chinese,Chilli Paneer,2,280,28,4.4,Home Delivery,UPI,26,Yes
+ORD-010,2024-02-17,Hyderabad,South Indian,Idli Vada,4,130,22,4.7,Takeaway,Cash,45,No
+ORD-011,2024-02-22,Chennai,Biryani,Veg Biryani,2,280,38,3.7,Home Delivery,UPI,33,No
+ORD-012,2024-02-25,Pune,Pizza,BBQ Chicken Pizza,1,450,42,4.0,Dine-in,Card,30,Yes
+ORD-013,2024-03-05,Mumbai,South Indian,Rava Dosa,2,160,25,4.6,Dine-in,Cash,25,No
+ORD-014,2024-03-10,Delhi,Snacks,Pani Puri,5,80,10,4.9,Dine-in,Cash,21,Yes
+ORD-015,2024-03-15,Bangalore,Biryani,Prawn Biryani,1,480,40,4.3,Home Delivery,Card,34,No
+ORD-016,2024-03-17,Hyderabad,Desserts,Kheer,2,120,20,4.5,Dine-in,Cash,42,Yes
+ORD-017,2024-03-22,Chennai,Chinese,Hakka Noodles,3,200,32,4.1,Home Delivery,UPI,28,No
+ORD-018,2024-03-29,Pune,Biryani,Chicken Biryani,3,340,38,4.0,Home Delivery,UPI,36,No
+ORD-019,2024-04-06,Mumbai,Chinese,Manchurian,2,250,28,4.2,Takeaway,Card,27,Yes
+ORD-020,2024-04-12,Delhi,South Indian,Uttapam,2,170,24,4.4,Dine-in,Cash,40,No
+ORD-021,2024-04-14,Bangalore,Snacks,Vada Pav,6,90,12,4.7,Takeaway,Cash,23,Yes
+ORD-022,2024-04-20,Hyderabad,Biryani,Hyderabadi Biryani,2,390,42,4.5,Home Delivery,UPI,32,Yes
+ORD-023,2024-04-25,Chennai,Pizza,Veggie Supreme,1,320,35,3.9,Home Delivery,Card,29,No
+ORD-024,2024-04-28,Pune,Desserts,Ice Cream Sundae,4,180,15,4.8,Dine-in,Card,26,Yes
+ORD-025,2024-05-03,Mumbai,Biryani,Chicken Biryani,1,350,36,4.3,Takeaway,UPI,38,No
+ORD-026,2024-05-11,Delhi,Desserts,Rasmalai,3,160,18,4.6,Dine-in,Cash,44,Yes
+ORD-027,2024-05-16,Bangalore,Pizza,Farmhouse Pizza,2,400,38,4.1,Home Delivery,Card,30,No
+ORD-028,2024-05-19,Hyderabad,Chinese,Sweet Corn Soup,3,160,22,4.5,Takeaway,UPI,35,Yes
+ORD-029,2024-05-25,Chennai,Biryani,Mutton Biryani,1,440,48,3.6,Home Delivery,Card,41,Yes
+ORD-030,2024-05-30,Pune,South Indian,Filter Coffee Set,5,80,10,4.9,Dine-in,Cash,28,No
+ORD-031,2024-06-05,Mumbai,Snacks,Bhel Puri,3,110,14,4.4,Dine-in,Cash,24,No
+ORD-032,2024-06-08,Delhi,Biryani,Veg Biryani,2,270,35,4.0,Takeaway,UPI,33,Yes
+ORD-033,2024-06-14,Bangalore,South Indian,Bisi Bele Bath,2,190,28,4.6,Dine-in,Card,37,No
+ORD-034,2024-06-20,Hyderabad,Desserts,Double Ka Meetha,2,140,20,4.7,Dine-in,Cash,50,Yes
+ORD-035,2024-06-23,Chennai,Chinese,Chicken 65,2,320,30,4.2,Home Delivery,UPI,31,Yes
+ORD-036,2024-06-28,Pune,Pizza,Cheese Burst Pizza,1,420,40,3.8,Home Delivery,Card,27,No
+ORD-037,2024-07-06,Mumbai,Biryani,Chicken Biryani,2,360,38,4.4,Home Delivery,UPI,29,Yes
+ORD-038,2024-07-12,Delhi,South Indian,Paper Dosa,3,140,22,4.8,Dine-in,Cash,36,No
+ORD-039,2024-07-14,Bangalore,Snacks,Spring Rolls,4,130,18,4.3,Takeaway,Card,25,Yes
+ORD-040,2024-07-20,Hyderabad,Pizza,Spicy Chicken Pizza,2,370,42,4.0,Home Delivery,UPI,32,Yes
+ORD-041,2024-07-26,Chennai,Desserts,Payasam,3,110,16,4.9,Dine-in,Cash,55,No
+ORD-042,2024-07-28,Pune,Chinese,Fried Rice Combo,2,210,26,4.2,Takeaway,UPI,28,Yes
+ORD-043,2024-08-04,Mumbai,South Indian,Dosa Platter,4,150,24,4.5,Dine-in,Cash,40,Yes
+ORD-044,2024-08-10,Delhi,Pizza,Paneer Tikka Pizza,1,360,38,4.1,Home Delivery,Card,34,No
+ORD-045,2024-08-16,Bangalore,Biryani,Veg Dum Biryani,3,280,35,4.3,Home Delivery,UPI,30,Yes
+ORD-046,2024-08-22,Hyderabad,Snacks,Mirchi Bajji,5,100,12,4.6,Dine-in,Cash,22,No
+ORD-047,2024-08-25,Chennai,Chinese,Gobi Manchurian,2,240,28,4.0,Home Delivery,UPI,38,Yes
+ORD-048,2024-08-30,Pune,Biryani,Mutton Biryani,1,430,45,3.9,Home Delivery,Card,43,No
+ORD-049,2024-09-06,Mumbai,Desserts,Firni,3,130,18,4.7,Dine-in,Card,26,No
+ORD-050,2024-09-12,Delhi,Biryani,Chicken Biryani,2,340,36,4.4,Home Delivery,UPI,31,Yes
+ORD-051,2024-09-15,Bangalore,Chinese,Kung Pao Chicken,2,300,30,4.3,Dine-in,Card,27,Yes
+ORD-052,2024-09-21,Hyderabad,South Indian,Pesarattu,3,140,20,4.8,Takeaway,Cash,48,No
+ORD-053,2024-09-27,Chennai,Pizza,Classic Margherita,2,280,32,4.2,Home Delivery,Card,25,No
+ORD-054,2024-10-04,Pune,Snacks,Kanda Bhajia,5,95,14,4.5,Dine-in,Cash,33,Yes
+ORD-055,2024-10-10,Mumbai,Biryani,Prawn Biryani,1,480,44,3.8,Home Delivery,Card,37,No
+ORD-056,2024-10-16,Delhi,Desserts,Gajar Halwa,4,150,16,4.9,Dine-in,Cash,60,Yes
+ORD-057,2024-10-22,Bangalore,Pizza,White Sauce Pizza,2,390,37,4.1,Home Delivery,UPI,29,No
+ORD-058,2024-10-27,Hyderabad,Biryani,Hyderabadi Biryani,3,400,42,4.5,Home Delivery,UPI,35,Yes
+ORD-059,2024-11-03,Chennai,Chinese,Chilli Chicken,2,310,32,4.2,Takeaway,Card,31,Yes
+ORD-060,2024-11-09,Pune,South Indian,Set Dosa,4,160,25,4.6,Dine-in,Cash,44,No
