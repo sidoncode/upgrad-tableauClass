@@ -1,7 +1,7 @@
 # 🍽️ IndiaEats Restaurant Analytics — Tableau Tutorial
 ### A Complete Step-by-Step Guide for Absolute Beginners
 
-> **Whiteboard link :** https://miro.com/app/board/uXjVHPeu2mI=/?share_link_id=153055533488
+> **Whiteboard link :** https://miro.com/app/board/uXjVHPeu2mI=/?share_link_id=153055533488.
 > **Project:** Analyse restaurant order data across 6 Indian cities to uncover sales trends, customer behaviour, and profit insights.
 > **Dataset:** `indiaEats_data.csv` — 60 orders, 13 columns, Jan–Nov 2024
 > **Level:** Complete Beginner · No prior Tableau experience needed
